@@ -1,4 +1,5 @@
 # From-Scratch-to-Scalable-Building-Data-Pipelines-with-Cloud-SQL
+![Alt Text](relative/path/to/Proposed Database Schema.png)
 The project involved applying skills such as web scraping with BeautifulSoup and building an API tracking system to deploy an automation solution in the cloud. Although the project was hypothetical, it helped me develop valuable skills that have shaped my path toward a career in data science. 
 MY JOURNEY AS A JUNIOR DATA ENGINEER
 
