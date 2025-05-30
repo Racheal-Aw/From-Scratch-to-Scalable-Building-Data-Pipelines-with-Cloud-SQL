@@ -1,4 +1,4 @@
-# 🛴 Gans E-Scooter Data Pipeline
+![E-Scooter](picture/new-e-scooter.jpg)
 
 This project demonstrates the development of a fully automated data pipeline for **Gans**, an e-scooter rental company, using Python, MySQL, and Google Cloud Platform (GCP). It includes:
 
@@ -15,10 +15,10 @@ This project demonstrates the development of a fully automated data pipeline for
 ![E-Scooters](picture/new%20e-scooter.jpg)
 
 ### Cloud SQL Schema Virtualization
-![Cloud SQL Virtualization](picture/virtualization%20of%20cloud%20SQL%20schema.png)
+![Cloud SQL Schema](picture/cloud-sql-schema.png)
 
 ### MySQL Database Schema
-![Database Schema](picture/Database%20Schema.png)
+![Database Schema](picture/database-schema.png)
 
 ---
 
